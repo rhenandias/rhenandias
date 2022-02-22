@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! :rocket:
+
+<div align="">
+  <a href="https://github.com/rhenandias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhenandias&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenandias&langs_count=10&layout=compact&theme=onedark"/>
+</div>
 
 <!--
 **rhenandias/rhenandias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
