@@ -2,7 +2,7 @@
 
 :student:  Meu nome é Rhenan, sou formado como Tecnólogo em Automação Industrial e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.
 
-:notebook: Sempre aprendendo!
+:notebook: Always Learning
 
 <div align="">
   <a href="https://github.com/rhenandias"></a>
