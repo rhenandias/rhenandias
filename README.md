@@ -1,6 +1,6 @@
-### Olá! :rocket:
+### Olá!
 
-:man_technologist: Meu nome é Rhenan, sou formado como Tecnólogo em Automação Industrial e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.
+:rocket: Meu nome é Rhenan, sou formado como Tecnólogo em Automação Industrial e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.
 
 :notebook: Always Learning
 
