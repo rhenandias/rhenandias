@@ -6,6 +6,8 @@
 
 <div align="">
   <a href="https://github.com/rhenandias"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhenandias&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenandias&langs_count=10&layout=compact&theme=onedark" />
 </div>
   
 ### Tecnologias e Ferramentas
